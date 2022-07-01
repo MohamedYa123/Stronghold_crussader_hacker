@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Basic Express 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "هكر صلاح الدين مقدم من شباب التقنية", "هكر صلاح الدين مقدم من شباب التقنية\هكر صلاح الدين مقدم من شباب التقنية.vbproj", "{98425086-F6FF-4F2E-ABD7-240122DF5BFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98425086-F6FF-4F2E-ABD7-240122DF5BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98425086-F6FF-4F2E-ABD7-240122DF5BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98425086-F6FF-4F2E-ABD7-240122DF5BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98425086-F6FF-4F2E-ABD7-240122DF5BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
